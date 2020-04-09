@@ -6,7 +6,7 @@
 
 > Serving data from John Hopkins University CSSE as a [JSON API](https://covid19.mathdro.id)
 
-[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/mathdroid/covid-19-api)
+[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/leogopal/COVID19-API)
 
 
 ## Routes
